@@ -1,0 +1,33 @@
+# Node
+node_modules/
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env*.local
+
+# Build
+dist/
+build/
+.next/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI Models (trop gros)
+ai-models/*.bin
+ai-models/*.safetensors
+__pycache__/
+
+# Secrets
+*.pem
+*.key

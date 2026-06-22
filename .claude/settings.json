@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:messagebird.com)",
+      "WebFetch(domain:www.octopush.com)",
+      "WebFetch(domain:bird.com)"
+    ]
+  }
+}
